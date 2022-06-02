@@ -19,7 +19,7 @@ const pokemon = {
     'dark': {
         'type': 'Dark',
         'info': 'The second generation of Pokemons presented the 76 Dark-type Pokémon to balance the other types. The attacks of the dark types are immune and more potent against psychic and ghost types. The weaknesses of dark dual types include bugs, fairy-type, and fighting type.',
-        'picture': 'img/dark.png',
+        'picture': 'https://i.imgur.com/8ZthLzs.png',
         'strong': 'Strong against Ghost, Psychic ',
         'weak': 'Weak against Fighting, Dark, Fairy'
     },
