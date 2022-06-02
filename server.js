@@ -12,7 +12,7 @@ const pokemon = {
     'bug': {
         'type': 'Bug',
         'info': 'A Bug Pokémon grows and evolves quickly compared to other normal types. They are known to be weak and somewhat useless, but their attacks in every battle are super effective against grass, psychics, and Dark-type Pokemon.',
-        'picture': 'https://ibb.co/5xq56jD',
+        'picture': 'https://i.ibb.co/84Fj0x3/bug.png',
         'strong': 'Strong against Grass, Psychic, Dark',
         'weak': 'Weak against Fighting, Flying, Poison, Ghost, Steel, Fire, Fairy'
     },
