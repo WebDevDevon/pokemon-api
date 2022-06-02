@@ -55,7 +55,7 @@ const pokemon = {
         'type': 'Fire',
         'info': 'Fire-type Pokémon is one of the known three-starter Pokémon, and the other two types include grass and water. A fire-type moves rarely in the early game but is very effective against steel-type, grass-type, and bug-type but weak against rocks and water-type Pokémon. ',
         'picture': 'https://i.ibb.co/Hn2tM3q/fire.png',
-        'strong': 'Strong against <br> Bug, Steel, Grass, Ice',
+        'strong': 'Strong against Bug, Steel, Grass, Ice',
         'weak': 'Weak against Rock, Fire, Water, Dragon'
     },
     'flying': {
