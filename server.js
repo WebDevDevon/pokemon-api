@@ -19,14 +19,14 @@ const pokemon = {
     'dark': {
         'type': 'Dark',
         'info': 'The second generation of Pokemons presented the 76 Dark-type Pokémon to balance the other types. The attacks of the dark types are immune and more potent against psychic and ghost types. The weaknesses of dark dual types include bugs, fairy-type, and fighting type.',
-        'picture': 'https://i.imgur.com/8ZthLzs.png',
+        'picture': 'https://i.ibb.co/pJjnKx6/dark.png',
         'strong': 'Strong against Ghost, Psychic ',
         'weak': 'Weak against Fighting, Dark, Fairy'
     },
     'dragon': {
         'type': 'Dragon',
         'info': 'Dragons are hard to train because they require more EXP points at every level compared to other types. Dragons also have less damage with steels and do not affect a fairy-type that much.',
-        'picture': 'img\dragon.png',
+        'picture': 'https://i.ibb.co/CPysHKN/dragon.png',
         'strong': 'Strong against Dragon',
         'weak': 'Weak against Steel'
     },
