@@ -147,7 +147,7 @@ app.get('/api/:pokemonType', (req, res) => {
     if(pokemon[Types]){
         res.json(pokemon[Types])
     } else {
-        res.json(pokemon['empty'])
+        res.json(pokemon[''])
     }
 })
 
