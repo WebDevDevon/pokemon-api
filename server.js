@@ -5,7 +5,10 @@ const { response } = require('express')
 const { request } = require('https')
 const PORT = 8000
 const MongoClient = require('mongodb').MongoClient
-const connectionString = 'mongodb+srv://Zunomic:purplefox3333@cluster0.bxmhzrs.mongodb.net/?retryWrites=true&w=majority'
+require('dotenv').config()
+const connectionString = process.env.DB_STRING
+
+
 
 app.use(cors())
 app.use(express.json())
